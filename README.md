@@ -1,11 +1,11 @@
-# 🎨 Dual Path Generator GAN for Image Cartoonization
+# Dual Path Generator GAN for Image Cartoonization
 
-## 📌 Overview
+## Overview
 This project implements a Generative Adversarial Network (GAN) for image cartoonization using a Dual Path Generator and multiple discriminators. The generator separates content and style learning to preserve structural details while enhancing cartoon features, while multiple discriminators improve texture, consistency, and overall visual quality.
 
 ---
 
-## 🚀 Features
+## Features
 - Dual Path Generator (content + style separation)  
 - Multiple Discriminators for improved realism  
 - Better structure preservation and stylization  
@@ -13,7 +13,7 @@ This project implements a Generative Adversarial Network (GAN) for image cartoon
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 ### Generator
 - Encoder → Shared Feature Map → Residual Blocks  
@@ -28,7 +28,7 @@ This project implements a Generative Adversarial Network (GAN) for image cartoon
 
 ---
 
-## 📂 Dataset
+## Dataset
 This project uses a cartoonization dataset consisting of real-world images and cartoon-style images.
 
 🔗 Dataset Link:  
