@@ -36,7 +36,7 @@ This project uses a cartoonization dataset consisting of real-world images and c
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - Python  
 - PyTorch  
 - OpenCV  
@@ -44,15 +44,14 @@ This project uses a cartoonization dataset consisting of real-world images and c
 
 ---
 
+## Environment
+- Developed and trained using **Kaggle Notebook**
+- GPU used: **NVIDIA Tesla T4**
+- Hardware acceleration enabled for faster training
+
 ## 🔧 Installation
 
 ```bash
 git clone https://github.com/gadha02/Photo-to-Cartoon-Translation-Using-Dual-Path-Generator-GAN.git
 cd Photo-to-Cartoon-Translation-Using-Dual-Path-Generator-GAN
 
----
-
-## Environment
-- Developed and trained using **Kaggle Notebook**
-- GPU used: **NVIDIA Tesla T4**
-- Hardware acceleration enabled for faster training
