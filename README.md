@@ -32,7 +32,7 @@ This project implements a Generative Adversarial Network (GAN) for image cartoon
 This project uses a cartoonization dataset consisting of real-world images and cartoon-style images.
 
 🔗 Dataset Link:  
-[https://www.kaggle.com/datasets/arnaud58/landscape-pictures  ](https://huggingface.co/datasets/dqymaggie/cartoonizer-dataset)
+[https://huggingface.co/datasets/dqymaggie/cartoonizer-dataset](https://huggingface.co/datasets/dqymaggie/cartoonizer-dataset)
 
 ---
 
